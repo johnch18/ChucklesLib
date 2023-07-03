@@ -6,7 +6,7 @@
       "version": "${modVersion}",
       "mcversion": "${minecraftVersion}",
       "url": "",
-      "updateUrl": "",
+      "updateUrl": "https://github.com/johnch18/ChucklesLib.git",
       "authorList": ["johnch18"],
       "credits": "",
       "logoFile": "",
