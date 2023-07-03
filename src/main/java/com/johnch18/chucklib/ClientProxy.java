@@ -1,4 +1,4 @@
-package com.myname.mymodid;
+package com.johnch18.chucklib;
 
 import cpw.mods.fml.common.event.*;
 
